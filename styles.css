@@ -1,0 +1,16 @@
+button {
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+.white {
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
